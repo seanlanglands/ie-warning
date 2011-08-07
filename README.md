@@ -6,7 +6,7 @@ A simple modal alert that triggers when the visitor is using Internet Explorer 6
 Implementation
 -------
 
-Place this block of code right before the closing <body> tag.
+Place this block of code right before the closing body tag.
 
 	<!--[if IE 6]>
     	<script type="text/javascript" src="ieWarning.js"></script>

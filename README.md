@@ -3,6 +3,8 @@ IE Warning
 
 A simple modal alert that triggers when the visitor is using Internet Explorer 6, informs visitors of their out-of-date browser and offers a variety of modern browser solutions.
 
+So awesome!
+
 Implementation
 -------
 
